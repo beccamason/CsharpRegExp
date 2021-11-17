@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "2EmailExtraction/1.0.0": {
+        "runtime": {
+          "2EmailExtraction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2EmailExtraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

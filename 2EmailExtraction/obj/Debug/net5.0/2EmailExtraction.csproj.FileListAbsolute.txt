@@ -1,0 +1,15 @@
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\2EmailExtraction\2EmailExtraction\obj\Debug\net5.0\2EmailExtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\2EmailExtraction\2EmailExtraction\obj\Debug\net5.0\2EmailExtraction.AssemblyInfoInputs.cache
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\2EmailExtraction\2EmailExtraction\obj\Debug\net5.0\2EmailExtraction.AssemblyInfo.cs
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\2EmailExtraction\2EmailExtraction\obj\Debug\net5.0\2EmailExtraction.csproj.CoreCompileInputs.cache
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\2EmailExtraction\2EmailExtraction\bin\Debug\net5.0\2EmailExtraction.exe
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\2EmailExtraction\2EmailExtraction\bin\Debug\net5.0\2EmailExtraction.deps.json
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\2EmailExtraction\2EmailExtraction\bin\Debug\net5.0\2EmailExtraction.runtimeconfig.json
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\2EmailExtraction\2EmailExtraction\bin\Debug\net5.0\2EmailExtraction.runtimeconfig.dev.json
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\2EmailExtraction\2EmailExtraction\bin\Debug\net5.0\2EmailExtraction.dll
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\2EmailExtraction\2EmailExtraction\bin\Debug\net5.0\ref\2EmailExtraction.dll
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\2EmailExtraction\2EmailExtraction\bin\Debug\net5.0\2EmailExtraction.pdb
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\2EmailExtraction\2EmailExtraction\obj\Debug\net5.0\2EmailExtraction.dll
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\2EmailExtraction\2EmailExtraction\obj\Debug\net5.0\ref\2EmailExtraction.dll
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\2EmailExtraction\2EmailExtraction\obj\Debug\net5.0\2EmailExtraction.pdb
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\2EmailExtraction\2EmailExtraction\obj\Debug\net5.0\2EmailExtraction.genruntimeconfig.cache
